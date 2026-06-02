@@ -68,7 +68,11 @@ This project was created to explore how front-end development can be used to cre
 
 ## Screenshots
 
-Add screenshots here after deployment.
+<img width="639" height="797" alt="Screenshot 2026-06-02 at 1 41 32 PM" src="https://github.com/user-attachments/assets/7d6abfe5-1b77-4c0b-9bd5-fab1e26e7f63" />
+<img width="1470" height="801" alt="Screenshot 2026-06-02 at 1 41 22 PM" src="https://github.com/user-attachments/assets/e27c20b7-207c-43ca-8abf-22e4e828966f" />
+<img width="660" height="788" alt="Screenshot 2026-06-02 at 1 41 07 PM" src="https://github.com/user-attachments/assets/4299e2cb-09f6-48dd-b539-ae8c9a52d044" />
+<img width="960" height="675" alt="Screenshot 2026-06-02 at 1 40 55 PM" src="https://github.com/user-attachments/assets/2b691fe0-e6e0-47cf-8a6e-e06c901d4017" />
+
 
 ---
 
